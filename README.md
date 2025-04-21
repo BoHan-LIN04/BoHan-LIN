@@ -106,12 +106,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://s11.flagcounter.com/count2/7gPS/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Flag Counter" />
+  <img src="https://profile-counter.glitch.me/BoHan-LIN04/count.svg" />
   <br />
   <sub>🌍 Visitor count since April 2025</sub>
 </p>
-
 
 ---
 
