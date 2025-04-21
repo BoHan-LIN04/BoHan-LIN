@@ -82,25 +82,11 @@
 
 ### 🚀 Currently Exploring / 当前关注方向
 
-- 🧠 **Multimodal Large Language Models (MLLMs)**  
-  Exploring alignment of vision-text representations, prompt-tuning strategies, and temporal memory integration in medical and dialogue scenarios.  
-  聚焦视觉-文本特征对齐、提示学习策略与时序记忆机制在医学与交互生成中的融合应用。
+- 🧠 Multimodal Large Language Models (MLLMs)
+- 🧩 Vision-Language Alignment & Fusion
+- 🔍 Prompt Engineering in Multimodal Tasks
+- 📚 SOTA Trends in Foundation Models
 
-- 🖼️ **Video-to-Report Generation**  
-  Combining pixel-level segmentation with large language models for clinical reasoning and natural language generation.  
-  结合视频分割与大模型进行诊断推理与文本报告生成。
-
-- 🔗 **Cross-Modal Semantic Understanding**  
-  Designing Pixel/Semantic Buffers and fusion strategies for bridging modality gaps.  
-  设计跨模态缓冲结构与融合机制，提升图文语义对齐与可解释性。
-
-- 💡 **Prompt Design & Adaptation in Multimodal Settings**  
-  Learning task-adaptive prompts for multi-frame context modeling in image/video analysis.  
-  在图像/视频任务中构建自适应提示向量，引导多帧时空特征理解。
-
-- 🧩 **Unified Architectures for Segmentation + Generation**  
-  Exploring single-encoder pipelines that support both dense prediction and generative tasks.  
-  构建可同时执行分割与生成任务的统一多模态架构。
 
 ---
 
