@@ -35,16 +35,31 @@
   *ACM Multimedia(CCF-A), Co-First Author*
   [🔗 GitHub Link]
 
+- 🤖 **Collaborative Vision System for Humanoid Robot / 人形机器人协同视觉系统**  
+  *Embedded visual navigation using dual-ROI + RANSAC on OpenMV platform, enabling obstacle avoidance and PID-controlled tracking.*  
+  *基于 OpenMV 平台的嵌入式视觉导航，融合双 ROI 与 RANSAC，实现避障循迹与 PID 控制精确导航。*  
+  *China Robotics Competition (3rd Prize), Technical Lead*  
+  [🔗 GitHub Link](https://github.com/BoHan-LIN04/24RoboCup-Engineering_Athletics_Human)
+  
+- 🏋️ **FitFormAI: Fitness Pose Analysis & Community Platform / 健身姿态分析与社交平台**  
+  *A fitness interaction platform with YOLO-powered pose estimation, real-time form feedback, and social features for exercise sharing.*  
+  *基于 YOLO 的姿态识别系统，提供健身姿态分析、实时动作纠正及健身社交功能的综合平台。*  
+  *Frontend with React, Backend via Spring Boot, and ML inference integrated in Python microservice.*  
+  [🔗 GitHub: Analysiser](https://github.com/BoHan-LIN04/FitFormAI_Analysiser) | 
+  [Frontend](https://github.com/BoHan-LIN04/FitFormAI_FE) | 
+  [Backend](https://github.com/BoHan-LIN04/FitFormAI_BE)
 
 ---
 
 ### ⚡ Interests / 当前感兴趣领域
 
-- 📚 Citation Prediction with LLMs
-- 🩺 Medical Reasoning Agents
-- 🌐 Fake News Risk Visualization
-- 💬 Dialect + Multimodal Translation
-- 🛠️ JavaScript-based Interactive Frontends
+
+
+- 🧠 Medical Report Generation with LLMs
+- 🌐 Federated Learning under Constraints
+- 🤖 Embedded Vision & Robot Navigation
+- 🏋️ Human Pose Estimation & Fitness AI
+- - ✈️ Flight Metasearch & Recommendation
 
 ---
 
