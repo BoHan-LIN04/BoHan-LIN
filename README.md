@@ -59,7 +59,7 @@
 - 🌐 Federated Learning under Constraints
 - 🤖 Embedded Vision & Robot Navigation
 - 🏋️ Human Pose Estimation & Fitness AI
-- - ✈️ Flight Metasearch & Recommendation
+- ✈️ Flight Metasearch & Recommendation
 
 ---
 
@@ -69,23 +69,38 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spark-FDEE21?logo=apache-spark&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
   <br />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Currently Exploring / 当前关注方向
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoHan-LIN04&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoHan-LIN04&layout=compact&hide_border=true&theme=tokyonight" width="48%"/>
-</p>
+- 🧠 **Multimodal Large Language Models (MLLMs)**  
+  Exploring alignment of vision-text representations, prompt-tuning strategies, and temporal memory integration in medical and dialogue scenarios.  
+  聚焦视觉-文本特征对齐、提示学习策略与时序记忆机制在医学与交互生成中的融合应用。
+
+- 🖼️ **Video-to-Report Generation**  
+  Combining pixel-level segmentation with large language models for clinical reasoning and natural language generation.  
+  结合视频分割与大模型进行诊断推理与文本报告生成。
+
+- 🔗 **Cross-Modal Semantic Understanding**  
+  Designing Pixel/Semantic Buffers and fusion strategies for bridging modality gaps.  
+  设计跨模态缓冲结构与融合机制，提升图文语义对齐与可解释性。
+
+- 💡 **Prompt Design & Adaptation in Multimodal Settings**  
+  Learning task-adaptive prompts for multi-frame context modeling in image/video analysis.  
+  在图像/视频任务中构建自适应提示向量，引导多帧时空特征理解。
+
+- 🧩 **Unified Architectures for Segmentation + Generation**  
+  Exploring single-encoder pipelines that support both dense prediction and generative tasks.  
+  构建可同时执行分割与生成任务的统一多模态架构。
 
 ---
 
