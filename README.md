@@ -3,7 +3,7 @@
 <!-- 动态打字效果 -->
 <p align="center">
   <a href="https://github.com/BoHan-LIN04">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+BoHan's+GitHub+World!;南开大学物联网工程专业学生;Coding+%F0%9F%92%BB+Creating+%F0%9F%92%A1+Connecting+%F0%9F%8C%90" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+BoHan's+GitHub+World!;西安交通大学软件工程专业学生;Coding+%F0%9F%92%BB+Creating+%F0%9F%92%A1+Connecting+%F0%9F%8C%90" />
   </a>
 </p>
 
@@ -18,11 +18,6 @@
 
 ### 🚀 Current Projects / 项目展示
 
-- 💡 **XJTU-FLY**  
-  *Flight metasearch & intelligent recommendation system, integrating React frontend, Spring Boot backend, and Spark big data pipeline.*  
-  *航班元搜索与智能推荐系统，包含前端、后端及大数据处理模块。*  
-  [🔗 GitHub Link](https://github.com/BoHan-LIN04/XJTU-FLY)
-
 - 🧠 **《Seg&Gen: Towards Precise Ultrasound Video Diagnosis via Lesion Segmentation and Report Generation》**  
   *Multimodal framework for lesion segmentation and report generation in thyroid ultrasound videos, combining memory-enhanced LLMs.*  
   *超声视频病灶分割与诊断报告生成多模态框架，结合时序记忆与大语言模型。*  
@@ -34,6 +29,7 @@
   *异构模型联邦学习框架，融合高效蒸馏与双向对比学习。*  
   *ACM Multimedia(CCF-A), Co-First Author*
   [🔗 GitHub Link]
+
 
 - 🤖 **Collaborative Vision System for Humanoid Robot / 人形机器人协同视觉系统**  
   *Embedded visual navigation using dual-ROI + RANSAC on OpenMV platform, enabling obstacle avoidance and PID-controlled tracking.*  
@@ -48,6 +44,11 @@
   [🔗 GitHub: Analysiser](https://github.com/BoHan-LIN04/FitFormAI_Analysiser) | 
   [Frontend](https://github.com/BoHan-LIN04/FitFormAI_FE) | 
   [Backend](https://github.com/BoHan-LIN04/FitFormAI_BE)
+
+- 💡 **XJTU-FLY**  
+  *Flight metasearch & intelligent recommendation system, integrating React frontend, Spring Boot backend, and Spark big data pipeline.*  
+  *航班元搜索与智能推荐系统，包含前端、后端及大数据处理模块。*  
+  [🔗 GitHub Link](https://github.com/BoHan-LIN04/XJTU-FLY)
 
 ---
 
