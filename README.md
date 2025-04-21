@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm BoHan Lin / 林柏翰</h1>
+<h1 align="center">Hi there 👋 I'm BoHan Lin / 林博涵</h1>
 
 <!-- 动态打字效果 -->
 <p align="center">
@@ -10,31 +10,31 @@
 ---
 
 ### 🎓 About Me / 关于我
-- 🌍 I'm BoHan Lin, currently studying **Internet of Things Engineering** at **Nankai University**.
-- 🧠 Passionate about **AI Agents**, **LLMs**, **Multimodal Systems**, and **Full-Stack Development**.
-- 💬 中文介绍：我是林柏翰，目前就读于南开大学计算机学院物联网工程专业。热衷于人工智能、大语言模型、多模态系统与前端全栈开发。
+- 🌍 I'm BoHan Lin, currently studying **SoftwareEngineering** at **Xi'an Jiaotong University**.
+- 🧠 Passionate about **AI**, **LLMs**, and **Full-Stack Development**.
+- 💬 中文介绍：我是林博涵，就读于西安交通大学软件工程专业。热衷于人工智能、大语言模型与前后端全栈开发。
 
 ---
 
-### 🚀 Current Projects / 当前参与的项目
+### 🚀 Current Projects / 项目展示
 
-- 💡 **ScImpactPredict**  
-  *LLM-based paper impact prediction.*  
-  [🔗 View on GitHub](https://github.com/1Reminding/SclmpactPredict)
+- 💡 **XJTU-FLY**  
+  *Flight metasearch & intelligent recommendation system, integrating React frontend, Spring Boot backend, and Spark big data pipeline.*  
+  *航班元搜索与智能推荐系统，包含前端、后端及大数据处理模块。*  
+  [🔗 GitHub Link](https://github.com/BoHan-LIN04/XJTU-FLY)
 
-- 🧬 **MediChain-LLM-Agent**  
-  *LangChain + Medical Knowledge + JavaScript Frontend.*  
-  [🔗 Project Link](https://github.com/1Reminding/MediChain-LLM-Agent)
+- 🧠 **《Seg&Gen: Towards Precise Ultrasound Video Diagnosis via Lesion Segmentation and Report Generation》**  
+  *Multimodal framework for lesion segmentation and report generation in thyroid ultrasound videos, combining memory-enhanced LLMs.*  
+  *超声视频病灶分割与诊断报告生成多模态框架，结合时序记忆与大语言模型。*  
+  *IEEE Transction on Medical Imaging, Co-First Author*
+  [🔗 GitHub Link]
 
-- 📰 **Multimodal Fake News Detection**  
-  *Text-Image Fusion + Risk Analysis with Attention.*  
-  [🔗 Read More](https://github.com/1Reminding/Multimodal-Fake-News-Detection)
+- 🌐 **《When the Torrent Meets the Narrow: Rethinking Server Constraints in Model-Heterogeneous Federated Learning》**  
+  *Model-heterogeneous federated learning framework with communication-efficient knowledge distillation and bi-directional contrastive learning.*  
+  *异构模型联邦学习框架，融合高效蒸馏与双向对比学习。*  
+  *ACM Multimedia(CCF-A), Co-First Author*
+  [🔗 GitHub Link]
 
-- 🗣️ **Dialect Translation Platform**  
-  *Dialect corpus + tone extraction + avatar interaction.*
-
-- 🎨 **Frontend UX Design Projects**  
-  *Building creative & intuitive user interfaces.*
 
 ---
 
@@ -83,8 +83,8 @@
   <a href="https://github.com/BoHan-LIN04">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:bohanlin@mail.nankai.edu.cn">
-    <img src="https://img.shields.io/badge/Nankai%20Email-7E0C6E?style=for-the-badge&logoColor=white" />
+  <a href="mailto:linbohan@stu.xjtu.edu.cn">
+    <img src="https://img.shields.io/badge/Xi'an Jiaotong%20Email-7E0C6E?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
