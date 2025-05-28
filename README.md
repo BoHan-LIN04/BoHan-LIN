@@ -62,8 +62,8 @@
   <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Spark-FDEE21?logo=apache-spark&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-  <br />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <br />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
