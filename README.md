@@ -76,10 +76,10 @@
 
 ### 🚀 Currently Exploring / 当前关注方向
 
-- 🧠 Multimodal Large Language Models (MLLMs)
+- 🧠 Multimodal Large Language Models (MLLMs) / 多模态大模型
 - 🤖 Large Model Agents & Autonomous Systems / 大模型智能体与自主系统
 - 🔍 Efficient Prompting & Tool-Use in Large Models / 高效提示设计与工具使用策略
-- 📚 SOTA Trends in Foundation Models
+- 📚 SOTA Trends in Foundation Models / 当前先进的基座大模型
 
 
 ---
