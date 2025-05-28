@@ -52,17 +52,7 @@
 
 ---
 
-### ⚡ Interests / 当前感兴趣领域
 
-
-
-- 🧠 Medical Report Generation with LLMs
-- 🌐 Federated Learning under Constraints
-- 🤖 Embedded Vision & Robot Navigation
-- 🏋️ Human Pose Estimation & Fitness AI
-- ✈️ Flight Metasearch & Recommendation
-
----
 
 ### 🛠️ Tech Stack & Tools / 技术栈
 
@@ -77,6 +67,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Llamafactory-informational?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/badge/VeRL-informational?style=for-the-badge&color=purple" />
+
 </p>
 
 ---
@@ -84,8 +77,8 @@
 ### 🚀 Currently Exploring / 当前关注方向
 
 - 🧠 Multimodal Large Language Models (MLLMs)
-- 🧩 Vision-Language Alignment & Fusion
-- 🔍 Prompt Engineering in Multimodal Tasks
+- 🤖 Large Model Agents & Autonomous Systems / 大模型智能体与自主系统
+- 🔍 Efficient Prompting & Tool-Use in Large Models / 高效提示设计与工具使用策略
 - 📚 SOTA Trends in Foundation Models
 
 
