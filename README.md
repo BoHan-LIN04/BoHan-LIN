@@ -12,7 +12,7 @@
 ### 🎓 About Me / 关于我
 - 🌍 I'm BoHan Lin, currently studying **SoftwareEngineering** at **Xi'an Jiaotong University**.
 - 🧠 Passionate about **AI**, **LLMs**, and **Full-Stack Development**.
-- 💬 中文介绍：我是林博涵，就读于西安交通大学软件工程专业。热衷于人工智能、大语言模型与前后端全栈开发。
+- 💬 中文介绍：我是林博涵，就读于西安交通大学软件工程专业。热衷于人工智能、大语言模型推理、多模态大语言模型、Agent与前后端全栈开发。
 
 ---
 
